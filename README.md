@@ -2,10 +2,14 @@
 Aplicación de escritorio creada para mejorar la alimentación de las personas que desean mejorar su calidad de vida. Desarrollada en Java mediante el IDE Apache Netbeans 13.
 ## Stack tecnológico necesario: 
 Apache Netbeans 13
+
 JDK 1.8.0_202
+
 Xampp
+
 mysql-connector-java-5.1.46
 
+MySQL Workbench 8.0.35.0
 
 ## Instrucciones para un correcto uso: 
 Luego de clonar el repositorio, tendrás que acceder al [link de Drive](https://drive.google.com/drive/folders/1X37tS_nGi6QEuhfl2K5fPCBdzHlW7ODl?usp=drive_link) que tendrá los instaladores de los distintos programas que debes tener y sus versiones y deberás instalarlos; primero el MySQL Workbench, el JDK, luego el Apache Netbeans 13 y el Xampp. 
