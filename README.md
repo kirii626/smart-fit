@@ -11,6 +11,10 @@ mysql-connector-java-5.1.46
 
 MySQL Workbench 8.0.35.0
 
+## Atajo para clonar repositorio 
+
+    git clone https://github.com/kirii626/smart-fit
+
 ## Instrucciones para un correcto uso: 
 Luego de clonar el repositorio, tendrás que acceder al [link de Drive](https://drive.google.com/drive/folders/1X37tS_nGi6QEuhfl2K5fPCBdzHlW7ODl?usp=drive_link) que tendrá los instaladores de los distintos programas que debes tener y sus versiones y deberás instalarlos; primero el MySQL Workbench, el JDK, luego el Apache Netbeans 13 y el Xampp. 
 Abre el Apache Netbeans y ve al botón de Files en la esquina superior izquierda, ve a Open Project y navega hasta la ruta donde está clonado el repositorio, si el Apache está bien instalado lo reconocerá de esta forma. 
