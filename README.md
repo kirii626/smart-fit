@@ -37,6 +37,6 @@ Activa el servidor de Xampp y verifica la conexión entre la DB y el Xampp verif
 Debes ejecutar el programa desde el archivo llamado "frameprinc.java"
 
 
-
+Hecho por Alejandra K. Justiniano Olmos y Mateo S. Márquez
 
 
